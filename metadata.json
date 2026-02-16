@@ -1,0 +1,8 @@
+{
+  "name": "MEDCONNECT - Comprehensive Medical Ecosystem",
+  "description": "The ultimate medical education and management platform. Feature-rich modules for academics, clinical logbooks, performance analytics, and administrative management with integrated AI assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
